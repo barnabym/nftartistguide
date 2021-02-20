@@ -1,4 +1,4 @@
-#What is an NFT?
+# What is an NFT?
 
 https://www.youtube.com/watch?v=a8ww4aNlPQU&feature=youtu.be
 
@@ -7,16 +7,16 @@ https://cdn.discordapp.com/attachments/759092345562988566/759092409426116658/NFT
 
 https://foundation.app/blog/artists-crypto-primer
 
-#What the Heck Is Cryptoart?
+# What the Heck Is Cryptoart?
 
 https://medium.com/swlh/what-the-heck-is-cryptoart-41f8af965e92
 https://dclblogger.com/what-is-crypto-art-or-nft-art-and-why-is-it-blowing-up/
 
-#How to get Wallet?
+# How to get Wallet?
 
 metamask extension chrome
 
-#How do I Mint?
+# How do I Mint?
 
 PERMISSIONLESS MINTING
 
@@ -36,7 +36,7 @@ CURATED PLATFORMS (other blockchains)
 
 viv3.com
 
-#How do I Promote Myself?
+# How do I Promote Myself?
 
 twitter
 discord
