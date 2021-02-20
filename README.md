@@ -41,3 +41,7 @@ viv3.com
 twitter
 discord
 clubhouse
+
+# How is the Artwork stored by Platform
+
+https://edition.async.art/blog/january-2021-guide-to-tokenized-art-permanence-and-provenance
