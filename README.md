@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+What is an NFT?
 
-You can use the [editor on GitHub](https://github.com/barnabym/nftartistguide/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+https://www.youtube.com/watch?v=a8ww4aNlPQU&feature=youtu.be
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+https://www.youtube.com/watch?v=Xdkkux6OxfM
+https://cdn.discordapp.com/attachments/759092345562988566/759092409426116658/NFThub.xyz.png
 
-### Markdown
+https://foundation.app/blog/artists-crypto-primer
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+What the Heck Is Cryptoart?
 
-```markdown
-Syntax highlighted code block
+https://medium.com/swlh/what-the-heck-is-cryptoart-41f8af965e92
+https://dclblogger.com/what-is-crypto-art-or-nft-art-and-why-is-it-blowing-up/
 
-# Header 1
-## Header 2
-### Header 3
+How to get Wallet?
 
-- Bulleted
-- List
+metamask extension chrome
 
-1. Numbered
-2. List
+How do I Mint?
 
-**Bold** and _Italic_ and `Code` text
+PERMISSIONLESS MINTING
 
-[Link](url) and ![Image](src)
-```
+opensea (free after paying initial fee)
+mintable.app (free minting)
+rarible (costs to mint)
+mintbase (costs to make initial contract)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+CURATED PLATFORMS (on ether blockchain)
 
-### Jekyll Themes
+superrare
+niftygateway
+knownorigin.io
+makersplace
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/barnabym/nftartistguide/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+CURATED PLATFORMS (other blockchains)
 
-### Support or Contact
+viv3.com
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+How do I Promote Myself?
+
+twitter
+discord
+clubhouse
