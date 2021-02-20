@@ -57,7 +57,7 @@ discord
 
 clubhouse
 
-# How is the Artwork stored by Platform
+# How is the artwork stored by platform
 
 https://edition.async.art/blog/january-2021-guide-to-tokenized-art-permanence-and-provenance
 
