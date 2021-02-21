@@ -7,19 +7,19 @@ Here are some links to some video explainers:
 
 [https://www.youtube.com/watch?v=a8ww4aNlPQU&feature=youtu.be](https://www.youtube.com/watch?v=a8ww4aNlPQU&feature=youtu.be)
 
-https://www.youtube.com/watch?v=Xdkkux6OxfM
+[https://www.youtube.com/watch?v=Xdkkux6OxfM](https://www.youtube.com/watch?v=Xdkkux6OxfM)
 
-https://cdn.discordapp.com/attachments/759092345562988566/759092409426116658/NFThub.xyz.png
+[https://cdn.discordapp.com/attachments/759092345562988566/759092409426116658/NFThub.xyz.png](https://cdn.discordapp.com/attachments/759092345562988566/759092409426116658/NFThub.xyz.png)
 
-https://foundation.app/blog/artists-crypto-primer
+[https://foundation.app/blog/artists-crypto-primer](https://foundation.app/blog/artists-crypto-primer)
 
 # What is CryptoArt?
 
 CryptoArt are rare digital artworks associated with tokens that exist on the blockchain. 
 
-https://medium.com/swlh/what-the-heck-is-cryptoart-41f8af965e92
+[https://medium.com/swlh/what-the-heck-is-cryptoart-41f8af965e92](https://medium.com/swlh/what-the-heck-is-cryptoart-41f8af965e92)
 
-https://dclblogger.com/what-is-crypto-art-or-nft-art-and-why-is-it-blowing-up/
+[https://dclblogger.com/what-is-crypto-art-or-nft-art-and-why-is-it-blowing-up/](https://dclblogger.com/what-is-crypto-art-or-nft-art-and-why-is-it-blowing-up/)
 
 # How to get wallet?
 
@@ -29,25 +29,25 @@ Get a Metamask extension for your browser. There are other options but this most
 
 PERMISSIONLESS MINTING
 
-https://opensea.io/ (free after paying an initial fee)
+[https://opensea.io/](https://opensea.io/) (free after paying an initial fee)
 
-https://mintable.app (free minting)
+[https://mintable.app](https://mintable.app) (free minting)
 
-https://rarible.com/ (costs to mint)
+[https://rarible.com/](https://rarible.com/) (costs to mint)
 
 CURATED PLATFORMS (on ether blockchain)
 
-https://superrare.co/
+[https://superrare.co/](https://superrare.co/)
 
-https://niftygateway.com/
+[https://niftygateway.com/](https://niftygateway.com/)
 
-https://knownorigin.io/
+[https://knownorigin.io/](https://knownorigin.io/)
 
-https://makersplace.com/
+[https://makersplace.com/](https://makersplace.com/)
 
 CURATED PLATFORMS (other blockchains)
 
-https://viv3.com/
+[https://viv3.com/](https://viv3.com/)
 
 # How do I promote myself?
 
@@ -59,6 +59,6 @@ clubhouse
 
 # How is the artwork stored by platform
 
-https://edition.async.art/blog/january-2021-guide-to-tokenized-art-permanence-and-provenance
+[https://edition.async.art/blog/january-2021-guide-to-tokenized-art-permanence-and-provenance](https://edition.async.art/blog/january-2021-guide-to-tokenized-art-permanence-and-provenance)
 
 <script data-ad-client="ca-pub-7518831337260498" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
