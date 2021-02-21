@@ -25,9 +25,15 @@ CryptoArt are rare digital artworks associated with tokens that exist on the blo
 
 [https://dclblogger.com/what-is-crypto-art-or-nft-art-and-why-is-it-blowing-up/](https://dclblogger.com/what-is-crypto-art-or-nft-art-and-why-is-it-blowing-up/)
 
-# How to get wallet?
+# What is a wallet?
 
-Get a Metamask extension for your browser. There are other options but this most used one.
+You'll need one of these to send ether (currency used by main NFT platforms at the moment), pay for minting and to recieve payment.
+
+Coinbase is a good way to convert normal currency into ether that can then be sent to the wallet.
+
+# How to get a wallet?
+
+One of the commonly used wallets is Metamask. Install the Metamask browser extension. 
 
 # How do I mint?
 
