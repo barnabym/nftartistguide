@@ -9,7 +9,11 @@ Here are some links to some video explainers:
 
 [https://www.youtube.com/watch?v=Xdkkux6OxfM](https://www.youtube.com/watch?v=Xdkkux6OxfM)
 
+Also an NFT infographic:
+
 [https://cdn.discordapp.com/attachments/759092345562988566/759092409426116658/NFThub.xyz.png](https://cdn.discordapp.com/attachments/759092345562988566/759092409426116658/NFThub.xyz.png)
+
+More NFT information:
 
 [https://foundation.app/blog/artists-crypto-primer](https://foundation.app/blog/artists-crypto-primer)
 
