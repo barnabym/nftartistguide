@@ -5,7 +5,7 @@ NFT stands for non-fungible token. Basically a digital good. In terms of Art, it
 
 Here are some links to some video explainers:
 
-https://www.youtube.com/watch?v=a8ww4aNlPQU&feature=youtu.be
+[https://www.youtube.com/watch?v=a8ww4aNlPQU&feature=youtu.be](https://www.youtube.com/watch?v=a8ww4aNlPQU&feature=youtu.be)
 
 https://www.youtube.com/watch?v=Xdkkux6OxfM
 
