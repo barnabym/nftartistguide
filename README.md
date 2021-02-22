@@ -1,4 +1,4 @@
-# NFT Artist Guide?
+# Artist's Guide to NFTs
 
 Basic and incomplete information for artists trying to find out about NFTs.
 
