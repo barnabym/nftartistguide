@@ -1,3 +1,6 @@
+# NFT Artist Guide?
+
+Basic and incomplete information for artists trying to find out about NFTs.
 
 # What is an NFT?
 
