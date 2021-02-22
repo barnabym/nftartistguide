@@ -38,7 +38,9 @@ Coinbase is a good way to convert normal currency into ether that can then be se
 
 One of the commonly used wallets is Metamask. Install the Metamask browser extension. 
 
-# How do I mint?
+# How do I 'mint' (create an NFT)?
+
+'Minting' is a term used to describe making a NFT on a blockchain.
 
 PERMISSIONLESS MINTING
 
