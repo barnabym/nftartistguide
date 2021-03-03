@@ -76,4 +76,3 @@ clubhouse
 
 [https://edition.async.art/blog/january-2021-guide-to-tokenized-art-permanence-and-provenance](https://edition.async.art/blog/january-2021-guide-to-tokenized-art-permanence-and-provenance)
 
-<script data-ad-client="ca-pub-7518831337260498" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
