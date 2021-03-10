@@ -78,7 +78,7 @@ showtime
 
 # How many do I mint?
 
-Scarcity matters maybe a 1 of 1 to start with. 
+Scarcity matters maybe a 1 of 1 to start with. This will be your 'gensis piece' or 'gensis pieces'. 
 
 # How do I price my work?
 
