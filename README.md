@@ -82,7 +82,7 @@ Scarcity matters maybe a 1 of 1 to start with. This will be your 'genesis piece'
 
 # How do I price my work?
 
-Look at similar work. No easy answer it's tricky. 
+Look at similar work. No easy answer. It's tricky. 
 
 # How is the artwork stored by platform
 
