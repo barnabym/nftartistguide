@@ -78,7 +78,11 @@ showtime
 
 # How many do I mint?
 
+Scarcity matters maybe a 1 of 1 to start with. 
+
 # How do I price my work?
+
+Look at similar work. No easy answer it's tricky. 
 
 # How is the artwork stored by platform
 
