@@ -72,7 +72,21 @@ discord
 
 clubhouse
 
+instagram
+
+showtime
+
 # How is the artwork stored by platform
 
+So understanding where the artworks stored will be important in the long run:
+
 [https://edition.async.art/blog/january-2021-guide-to-tokenized-art-permanence-and-provenance](https://edition.async.art/blog/january-2021-guide-to-tokenized-art-permanence-and-provenance)
+
+# Other resources
+
+https://nfts.tips/
+
+https://www.trevorjonesart.com/blog/artist-checklist-for-success
+
+
 
