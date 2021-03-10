@@ -76,6 +76,10 @@ instagram
 
 showtime
 
+# How many do I mint?
+
+# How do I price my work?
+
 # How is the artwork stored by platform
 
 So understanding where the artworks stored will be important in the long run:
